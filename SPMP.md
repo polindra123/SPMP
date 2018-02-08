@@ -36,3 +36,26 @@ Classroom Spy Pro Sudah
 1.4 Material acuan
 
 1.5 Definisi dan akrinom (singkatan)
+
+2. Organisasi proyek
+
+2.1 Model proses
+
+2.2 Struktur organisasi
+
+2.3 Batasan dan antarmuka organisasi
+
+2.4 Lingkungan hidup
+
+3. Proses manajerial
+
+3.1 Tujuan dan prioritas manajemen
+
+3.2 asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan
+
+3.3 Manajemen Resiko
+
+3.4 Mekanisme monitoring dan kontroling 
+
+3.5 Perencanaan staf 
+
